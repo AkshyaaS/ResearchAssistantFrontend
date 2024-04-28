@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AkshyaaS/ResearchAssistantFrontend/static/css/main.eb8caa86.css",
+    "main.js": "/AkshyaaS/ResearchAssistantFrontend/static/js/main.0a794894.js",
+    "index.html": "/AkshyaaS/ResearchAssistantFrontend/index.html",
+    "main.eb8caa86.css.map": "/AkshyaaS/ResearchAssistantFrontend/static/css/main.eb8caa86.css.map",
+    "main.0a794894.js.map": "/AkshyaaS/ResearchAssistantFrontend/static/js/main.0a794894.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb8caa86.css",
+    "static/js/main.0a794894.js"
+  ]
+}
